@@ -1,0 +1,26 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Anime Characters</string>
+    <string name="label_titulo">Don Formulario</string>
+    <string name="label_sexo">Sexo</string>
+    <string name="label_anime">Anime</string>
+    <string name="label_descripcion">Descripcion</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_poder">Poder</string>
+    <string name="switch_hombre">Hombre</string>
+    <string name="switch_mujer">Mujer</string>
+    <string name="radio1">One Piece</string>
+    <string name="radio2">Naruto</string>
+    <string name="radio3">Dragon Ball</string>
+    <string name="añadir">Añadir</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="addHabilidades">Add habilidad</string>
+    <string name="button2">Ver</string>
+    <string name="combobox">Id</string>
+    <string name="label_zona">Zona</string>
+    <string name="faltanDatos">Faltan Datos</string>
+    <string name="rellenaDatos">Rellena los datos</string>
+    <string name="hola">Hola </string>
+    <string name="mana">Mana: </string>
+
+
+</resources>
